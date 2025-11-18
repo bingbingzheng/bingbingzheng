@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Bingbing 👋
 
-<!--
-**bingbingzheng/bingbingzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Python-focused Data & Automation Engineer with experience building internal tools, workflow automation systems, and financial data pipelines.
 
-Here are some ideas to get you started:
+My work centers around turning complex, manual processes into reliable, scalable, and maintainable software. I enjoy designing clean architectures, building automation that reduces operational risk, and improving day-to-day productivity through practical engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Core Strengths
+- **Python engineering**: pandas, scripting, PyQt5, modular tooling  
+- **Data pipelines**: validation, ingestion, SFTP, APIs, automation workflows  
+- **Financial systems**: index methodologies, constituent processing, weighting logic  
+- **Automation**: Power Automate, Graph API, Excel/VBA integration  
+- **Engineering practices**: Git, testing (pytest), CI/CD (GitHub Actions)
+
+### 🌱 Currently Exploring
+- Modern AI tooling (LangChain, RAG, vector search)  
+- Workflow intelligence & automation  
+- Clean code + testing best practices
+
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/bingbingzheng/)
+
