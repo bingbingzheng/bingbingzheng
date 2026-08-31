@@ -1,21 +1,49 @@
 # Hi, I’m Bingbing 👋
 
-I’m a Python-focused Data & Automation Engineer with experience building internal tools, workflow automation systems, and financial data pipelines.
+Senior Quant Developer | Python | Financial Data Engineering | Financial Systems
 
-My work centers around turning complex, manual processes into reliable, scalable, and maintainable software. I enjoy designing clean architectures, building automation that reduces operational risk, and improving day-to-day productivity through practical engineering.
+I’m a Quantitative Software Engineer with a background in Computer Science, Quantitative Finance, and financial data systems. My work has focused on quantitative workflows, financial data processing, ETL pipelines, validation frameworks, workflow automation, and internal platforms.
 
-### ⚙️ Core Strengths
-- **Python engineering**: pandas, scripting, PyQt5, modular tooling  
-- **Data pipelines**: validation, ingestion, SFTP, APIs, automation workflows  
-- **Financial systems**: index methodologies, constituent processing, weighting logic  
-- **Automation**: Power Automate, Graph API, Excel/VBA integration  
-- **Engineering practices**: Git, testing (pytest), CI/CD (GitHub Actions)
+I enjoy working at the intersection of finance and software engineering — translating complex business rules and quantitative methodologies into reliable, maintainable production systems.
 
-### 🌱 Currently Exploring
-- Modern AI tooling (LangChain, RAG, vector search)  
-- Workflow intelligence & automation  
-- Clean code + testing best practices
+## 🛠️ What I Build
 
-### 📫 Connect with me  
+My main interests are:
+
+* 📊 **Quantitative Development**
+* 🐍 **Python Financial Engineering**
+* 💾 **Financial Data Engineering**
+* ⚙️ **Backend & Production Systems**
+* 🔄 **ETL & Data Pipelines**
+* 🤖 **Workflow & Process Automation**
+* 🧮 **Quantitative Analytics**
+
+## 💻 Technical Stack
+
+### Languages
+
+`Python` `SQL` `JavaScript` `Java` `C++` `R` `VBA` `YAML`
+
+### Data & Quant
+
+`Pandas` `NumPy` `Polars` `PySpark` `ETL` `Data Validation`
+`Financial Data Processing` `Quantitative Modeling` `Index Calculation` `Portfolio Analytics`
+
+### Backend & Systems
+
+`FastAPI` `REST APIs` `Database Systems` `System Integration`
+`Workflow Automation` `Production Systems` `Docker` `Kubernetes` `Microservices`
+
+### Data Engineering & MLOps
+
+`Apache Kafka` `Data Pipelines` `Data Integration` `SFTP` `JSON Schema`
+`Data Processing` `Validation Frameworks` `MLflow` `DVC`
+
+### AI / Emerging Technologies
+
+`LLM Applications` `LangChain` `AI Automation` `Document Intelligence`
+
+
+## 📫 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/bingbingzheng/)
 
